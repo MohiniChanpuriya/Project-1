@@ -1,6 +1,21 @@
 #navbar{
     background-color: rgb(93, 178, 125);
 }
+
+.navigation-bar{
+    /* position:fixed; */
+    background-color: rgb(72, 123, 176);
+    width:99%;
+    margin-top:1%;
+}
+
+.menu-items{
+    display:flex;
+    justify-content: space-between;
+    font-size:20px;
+    margin-left:1%;
+}
+
 #heading{
 
     text-align: center;
@@ -9,6 +24,7 @@
     margin-left:20px;
     margin-right:20px;
     margin-bottom: 5%;
+    margin-top:8%;
     text-transform:capitalize;
 }
 
